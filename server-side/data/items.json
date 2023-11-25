@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Egg and Cheese Muffin",
+    "description": "A delicious breakfast muffin with egg and cheese.",
+    "price": 15000,
+    "imgUrl": "imgurl1",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "name": "Chicken Muffin",
+    "description": "A classic breakfast muffin with chicken patty.",
+    "price": 25000,
+    "imgUrl": "imgurl2",
+    "authorId": 2,
+    "categoryId": 1
+  },
+  {
+    "name": "Creamy Garlic McFlavor Fries",
+    "description": "Crispy and flavorful fries with creamy garlic seasoning.",
+    "price": 11000,
+    "imgUrl": "imgurl3",
+    "authorId": 3,
+    "categoryId": 2
+  },
+  {
+    "name": "McShaker Fries Gulai Gurih",
+    "description": "Spicy and tangy shaker fries with Gulai Gurih flavor.",
+    "price": 25000,
+    "imgUrl": "imgurl4",
+    "authorId": 4,
+    "categoryId": 2
+  },
+  {
+    "name": "Iced Coffee Italian Dolce Jelly Float",
+    "description": "Iced coffee with Italian Dolce flavor and jelly toppings.",
+    "price": 12000,
+    "imgUrl": "imgurl5",
+    "authorId": 5,
+    "categoryId": 3
+  },
+  {
+    "name": "PaNas 1 Ayam McD Kimchi",
+    "description": "Spicy and savory Korean-style fried chicken.",
+    "price": 20000,
+    "imgUrl": "imgurl6",
+    "authorId": 1,
+    "categoryId": 5
+  },
+  {
+    "name": "Double Choco Sundae",
+    "description": "Rich chocolate sundae with double chocolate sauce.",
+    "price": 17000,
+    "imgUrl": "imgurl7",
+    "authorId": 2,
+    "categoryId": 7
+  },
+  {
+    "name": "Fish Prosperity Burger",
+    "description": "A delightful fish burger with Prosperity sauce.",
+    "price": 20000,
+    "imgUrl": "imgurl8",
+    "authorId": 3,
+    "categoryId": 8
+  },
+  {
+      "name": "McNuggets",
+      "description": "Crispy and tender chicken McNuggets with your choice of dipping sauce.",
+      "price": 10000,
+      "imgUrl": "imgurl10",
+      "authorId": 5,
+      "categoryId": 5
+    },
+    {
+      "name": "Mango Pineapple Smoothie",
+      "description": "A refreshing smoothie with mango and pineapple flavors.",
+      "price": 12000,
+      "imgUrl": "imgurl11",
+      "authorId": 1,
+      "categoryId": 3
+    },
+    {
+      "name": "Spicy McChicken",
+      "description": "A spicy chicken sandwich with lettuce and mayonnaise.",
+      "price": 24000,
+      "imgUrl": "imgurl12",
+      "authorId": 2,
+      "categoryId": 4
+    },
+    {
+      "name": "Chocolate Sundae",
+      "description": "Creamy chocolate sundae with a drizzle of chocolate sauce.",
+      "price": 25000,
+      "imgUrl": "imgurl13",
+      "authorId": 3,
+      "categoryId": 7
+    },
+    {
+      "name": "Filet-O-Fish",
+      "description": "A classic fish sandwich with tartar sauce and a steamed bun.",
+      "price": 26000,
+      "imgUrl": "imgurl14",
+      "authorId": 4,
+      "categoryId": 8
+    }
+]
